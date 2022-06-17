@@ -15,4 +15,3 @@ module MyEnumerable
     filtered
   end
 end
-
